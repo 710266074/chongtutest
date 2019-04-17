@@ -9,6 +9,6 @@ public class Hello {
 		System.out.println("Hello World");
 		System.out.println("Good Morning");
 		System.out.println("update1");
-		System.out.println("ÀîËÄ¸üĞÂ.....");
+		System.out.println("æå››å¼€å‘");
 	}
 }
